@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+👉 [Click here to view my Resume (PDF)](Max_Leone_Resume.pdf)
 <!--
 **max-leone-dev/max-leone-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
