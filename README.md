@@ -1,16 +1,21 @@
-## Hi there 👋
-👉 [Click here to view my Resume (PDF)](Max_Leone_Resume.pdf)
-<!--
-**max-leone-dev/max-leone-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Max 👋
 
-Here are some ideas to get you started:
+I do software engineering and game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in XR platforms, Unity and Unreal Engine integrations, quality engineering, and test infrastructure. I enjoy novel problems, early prototypes, and figuring out how to make difficult ideas work.
+
+## Current focus
+
+I'm learning more about AI-assisted development with Codex and building toward a solo indie game.
+
+## What I work on
+
+- Software engineering and developer-facing tools
+- XR platforms and game engine integrations
+- Engineering-focused testing and test infrastructure
+- Unity, Unreal, and creative technical prototypes
+
+## Links
+
+- [Resume](Max_Leone_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/max-leone-0a72b7b1)
