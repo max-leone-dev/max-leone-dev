@@ -1,0 +1,11 @@
+{
+  "name": "max-leone-dev-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render:resume": "node scripts/render_resume.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

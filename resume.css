@@ -1,0 +1,199 @@
+@page {
+  size: Letter;
+  margin: 0.48in 0.58in 0.48in;
+}
+
+:root {
+  color: #1f2933;
+  background: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 9.35pt;
+  line-height: 1.28;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+}
+
+body {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.resume {
+  max-width: 7.34in;
+  margin: 0 auto;
+}
+
+.resume-header {
+  border-bottom: 1.5px solid #2f4858;
+  padding-bottom: 0.12in;
+  margin-bottom: 0.14in;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+ul {
+  margin-top: 0;
+}
+
+h1 {
+  color: #172b3a;
+  font-size: 24pt;
+  letter-spacing: 0.025em;
+  line-height: 1;
+  margin-bottom: 0.06in;
+}
+
+.headline {
+  color: #2f4858;
+  font-size: 10.8pt;
+  font-weight: 700;
+  letter-spacing: 0.055em;
+  margin-bottom: 0.06in;
+  text-transform: uppercase;
+}
+
+.contact {
+  color: #52616b;
+  font-size: 8.75pt;
+  margin-bottom: 0;
+}
+
+.contact span {
+  padding: 0 0.06in;
+}
+
+a {
+  color: #0b5a78;
+  text-decoration: underline;
+  text-decoration-thickness: 0.5pt;
+  text-underline-offset: 1.5pt;
+}
+
+h2 {
+  border-bottom: 0.7px solid #b8c4cc;
+  color: #2f4858;
+  font-size: 9.4pt;
+  letter-spacing: 0.12em;
+  line-height: 1.1;
+  margin-bottom: 0.07in;
+  padding-bottom: 0.025in;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #172b3a;
+  font-size: 11.2pt;
+  line-height: 1.15;
+  margin-bottom: 0.025in;
+}
+
+h4 {
+  color: #1f2933;
+  font-size: 9.85pt;
+  line-height: 1.18;
+  margin-bottom: 0.015in;
+}
+
+section {
+  margin-bottom: 0.135in;
+}
+
+.projects {
+  break-before: page;
+}
+
+section > p {
+  margin-bottom: 0;
+}
+
+.focus-list {
+  columns: 2;
+  column-gap: 0.28in;
+  list-style: none;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.focus-list li {
+  break-inside: avoid;
+  margin-bottom: 0.025in;
+  padding-left: 0.13in;
+  position: relative;
+}
+
+.focus-list li::before {
+  color: #547487;
+  content: "•";
+  left: 0;
+  position: absolute;
+}
+
+.entry {
+  break-inside: avoid;
+  margin-bottom: 0.105in;
+}
+
+.role {
+  break-inside: avoid;
+  margin-bottom: 0.07in;
+}
+
+.role:last-child {
+  margin-bottom: 0;
+}
+
+.meta {
+  color: #52616b;
+  font-size: 8.65pt;
+  font-style: italic;
+  margin-bottom: 0.035in;
+}
+
+ul {
+  margin-bottom: 0;
+  padding-left: 0.19in;
+}
+
+li {
+  margin-bottom: 0.028in;
+  padding-left: 0.015in;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+.project {
+  margin-bottom: 0.1in;
+}
+
+.education {
+  margin-bottom: 0;
+}
+
+@media screen {
+  body {
+    background: #e9eef1;
+    padding: 0.35in;
+  }
+
+  .resume {
+    background: #ffffff;
+    box-shadow: 0 0 0.18in rgba(31, 41, 51, 0.18);
+    max-width: 8.5in;
+    min-height: 11in;
+    padding: 0.48in 0.58in;
+  }
+}
