@@ -6,7 +6,7 @@ My background is in XR platforms, Unity and Unreal Engine integrations, quality 
 
 ## Current focus
 
-I'm learning more about AI-assisted development with Codex and building toward a solo indie game.
+Prototyping and exploring AI assisted development and testing strategies.
 
 ## What I work on
 
